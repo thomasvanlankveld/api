@@ -1,4 +1,10 @@
 {
+    "repositories": [
+        {
+            "type": "git",
+            "url": "git@github.com:thomasvanlankveld/fractal.git"
+        }
+    ],
     "name": "thomasvanlankveld/api",
     "description": "A RESTful API package for the Laravel framework.",
     "keywords": ["restful", "api", "laravel", "dingo"],
